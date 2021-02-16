@@ -7,7 +7,7 @@ menu: Guide
 
 ## Adding GraphQL Scalars
 
-To add a custom scalar that has been implemented as GraphQLScalar from [graphql-js](https://github.com/graphql/graphql-js)  you need to provide some type information in TypeInfo object of the builder:
+To add a custom scalar that has been implemented as GraphQLScalar from [graphql-js](https://github.com/graphql/graphql-js) you need to provide some type information in TypeInfo object of the builder:
 
 ```typescript
 const builder = new SchemaBuilder<{
