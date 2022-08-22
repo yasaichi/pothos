@@ -1,0 +1,31 @@
+---
+name: Sponsors
+title: Sponsors
+description: The generous people supporting Pothos development
+---
+
+Pothos development supported by [sponsorships](https://github.com/sponsors/hayes) from these
+generous people and organizations:
+
+- [![The Guild](/assets/the-guild-logo.svg)](https://www.the-guild.dev/)
+- [![Prisma](/assets/prisma-logo.svg)](https://www.prisma.io/)
+- [![GitHub](/assets/github-logo.svg)](https://github.com/)
+- [![Stellate](/assets/stellate-logo.svg)](https://stellate.co/)
+- [@seanaye](https://github.com/seanaye)
+- [@kidqueb](https://github.com/kidqueb)
+- [@localticketing](https://github.com/localticketing)
+- [@homoky](https://github.com/homoky)
+- [@huv1k](https://github.com/huv1k)
+- [@KATT](https://github.com/KATT)
+- [@robmcguinness](https://github.com/robmcguinness)
+- [@Gomah](https://github.com/Gomah)
+- [![@IPS-Hosting](/assets/ips-logo.svg)](https://github.com/IPS-Hosting)
+- [@smartvokat](https://github.com/smartvokat)
+- [@evilkiwi](https://github.com/evilkiwi)
+
+<iframe
+  src="https://github.com/sponsors/hayes/card"
+  title="Sponsor hayes"
+  height="225"
+  width="600"
+></iframe>
