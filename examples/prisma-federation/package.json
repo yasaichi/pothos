@@ -21,6 +21,7 @@
     "@pothos/plugin-directives": "workspace:*",
     "@pothos/plugin-federation": "workspace:*",
     "@pothos/plugin-prisma": "workspace:*",
+    "@pothos/plugin-relay": "workspace:*",
     "@prisma/client": "^4.2.1",
     "apollo-server": "^3.10.1",
     "apollo-server-core": "^3.10.1",

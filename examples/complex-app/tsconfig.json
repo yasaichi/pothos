@@ -6,11 +6,27 @@
     "target": "es2019",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "module": "ESNext"
+    "module": "ESNext",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
   },
   "include": [
     "prisma/*.ts",
     "src/**/*",
     "scripts/**/*"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }
